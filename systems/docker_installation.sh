@@ -30,6 +30,6 @@ sleep 5
 sudo docker run -it ubuntu apt-get moo
 echo "If it worked, enter to the ubuntu docker"
 # -it command run something in the container 
-# sudo docker run -it <container> <process>
+# sudo docker run -it <image> <process>
 sudo docker run -it ubuntu bash
 echo "It worked docker successfully installed"

@@ -1,0 +1,14 @@
+# Python bytecode files
+*.pyc
+# Python 3 pycache folder
+__pycache__/
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints
+# Jupyter notebooks folder
+jupyter_notebooks
+# Jetbrains configuration folders
+.idea/
+# XML Files
+*.xml
+# PDF Files
+*.pdf
